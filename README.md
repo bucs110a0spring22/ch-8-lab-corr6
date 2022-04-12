@@ -19,7 +19,10 @@ Grace days remaining: < # >/5
  < What parts of the project you were not able to complete >
 
 ## REFERENCES:
- < List any outside resources used >
+https://www.programiz.com/python-programming/methods/built-in/chr
+https://www.programiz.com/python-programming/methods/built-in/ord
+https://www.w3schools.com/python/ref_string_isupper.asp
+https://www.tutorialspoint.com/python/string_islower.htm
 
 ## MISCELLANEOUS COMMENTS:
  < Anything you would like the grader to know >
